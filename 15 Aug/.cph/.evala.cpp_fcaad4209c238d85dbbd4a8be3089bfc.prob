@@ -1,0 +1,1 @@
+{"name":"Local: evala","url":"c:\\Users\\hp\\Desktop\\Coding blocks\\Codes\\Codeforces\\15 Aug\\evala.cpp","tests":[{"id":1692117146681,"input":"10\n+ 1\n+ 2\n+ 2\n?\n!\n+ 3\n- 2\n?\n+ 1\n?\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\Coding blocks\\Codes\\Codeforces\\15 Aug\\evala.cpp","group":"local","local":true}
